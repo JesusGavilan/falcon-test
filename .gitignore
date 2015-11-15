@@ -8,6 +8,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+falcon/
+.ropeproject/
 build/
 develop-eggs/
 dist/
@@ -55,3 +57,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Images
+*.jpeg
+*.png
+*.gif
+
+#Storage
+storage/
